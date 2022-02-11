@@ -36,8 +36,8 @@ div.header {
 }
 .header li{
 	list-style: none;
-	margin-right: 30px;
-	font-size: 30px;
+	margin-right: 3vw;
+	font-size: 3vw;
 	transition: all 0.3s;
 	border-bottom: 2px solid #ffda58;
 }
